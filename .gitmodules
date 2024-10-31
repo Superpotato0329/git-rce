@@ -1,0 +1,3 @@
+[submodule "x/y"]
+	path = Link/modules/x
+	url = https://github.com/Superpotato0329/git-rce-hook.git
